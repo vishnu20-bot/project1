@@ -82,11 +82,11 @@ Password: password123
 
 Feel free to fork this repository and contribute features, bug fixes, or improvements!
 
-#License
+# License
 
 This project is licensed under the MIT License.
 
-## Conclusion
+# Conclusion
 
 This project delivers a practical and extensible Python-based web vulnerability scanner integrating automated crawling, payload injection, response analysis, and detailed reporting. The user-friendly Flask UI enhances accessibility and management of scan results. This tool helps security professionals detect and address prevalent web application vulnerabilities efficiently. Future expansion can improve coverage, add asynchronous features, and implement persistent data storage.
 
