@@ -152,7 +152,23 @@ HTML/PDF reports generated from database
 
 ## Flask Dashboard
 
+![WhatsApp Image 2025-08-19 at 19 31 38_3a1c1c4a](https://github.com/user-attachments/assets/7445984a-264b-4e57-8390-132c8f6303c5)
+
 ## Vulnerability Report Page
+
+![WhatsApp Image 2025-08-19 at 19 31 39_271cf5b9](https://github.com/user-attachments/assets/94e91196-5687-4459-9ba0-a19080b966db)
+
+![WhatsApp Image 2025-08-19 at 19 31 39_aa807ea8](https://github.com/user-attachments/assets/62fc8e4b-af86-4002-8a08-8f6e70765de3)
+
+![WhatsApp Image 2025-08-19 at 19 31 39_4402e991](https://github.com/user-attachments/assets/5edc0f3f-7c42-4a4b-b8fd-da9363582f37)
+
+## After debugging
+
+![WhatsApp Image 2025-08-19 at 19 31 39_29d4c2b1](https://github.com/user-attachments/assets/4e8bbef1-8798-44ff-9114-5a28109a1e92)
+
+## commandline interface:
+
+![WhatsApp Image 2025-08-19 at 19 31 39_9bcbe3f6](https://github.com/user-attachments/assets/88f5ee06-74ab-4a07-a657-ad9e8a599ea0)
 
 # GitHub Repository:
 
